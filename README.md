@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sean-o-sullivan
+- 👀 I’m interested in coding, 3d printing, and swimming
+- 🌱 I’m currently learning Python, C++ and C
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 You can reach me at seangerardosullivan@gmail.com
